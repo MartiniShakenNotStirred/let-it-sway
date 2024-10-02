@@ -7,5 +7,15 @@ This software implements the simulation-ready tree reconstruction method describ
 - MinGW
 
 <h2>How to use it </h2>
+
 ### Demonstration video
+
 https://drive.google.com/file/d/1g6TgP8q6dE-Keutt8iVZ9S41nJGd2a13/view?usp=sharing
+
+### Using steps
+#### Cloning the Repository
+
+```shell
+# SSH                                                                       
+git clone git@//github.com/NUCIE315/Inetractivematting.git
+```
