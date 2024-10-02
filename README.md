@@ -20,3 +20,8 @@ https://drive.google.com/file/d/1g6TgP8q6dE-Keutt8iVZ9S41nJGd2a13/view?usp=shari
 git clone git@//github.com/NUCIE315/Inetractivematting.git
 ```
 #### Operation steps
+- <b>step1</b>  Click the TreePullReleaseDemo.exe.
+- <b>step2</b>  Select the index of input tree models.
+- <b>step3</b>  Select the index of input leaf models.
+- <b>step4</b>  Choose the branch where tension will be applied.
+- <b>step5</b>  Click the Pull/Release button on the control panel to manipulate the selected branch and create a simulated swaying effect.
