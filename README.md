@@ -17,12 +17,12 @@ https://drive.google.com/file/d/1g6TgP8q6dE-Keutt8iVZ9S41nJGd2a13/view?usp=shari
 
 ```shell
 # SSH                                                                       
-git clone git@//github.com/NUCIE315/Inetractivematting.git
+git clone git@//github.com/MartiniShakenNotStirred/let-it-sway.git
 ```
 or
 ```shell
 # HTTPS
-git clone git@//github.com/NUCIE315/Inetractivematting.git
+git clone https://github.com/MartiniShakenNotStirred/let-it-sway.git
 ```
 #### Operation steps
 - <b>step1</b>  Click the TreePullReleaseDemo.exe.
