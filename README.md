@@ -3,10 +3,18 @@
 This software implements the simulation-ready tree reconstruction method described in our paper: Let-It-Sway: Quality Dynamic Tree Reconstruction from a Single RGB-D Sensor.
  <h2> Software Requirements </h2>
 
+
+
 - Windows System
 - MinGW
 
+ ### Demo of tree animation
+
+ https://drive.google.com/file/d/1YbqonMmZm0NDUtfRnbQ3mHjr-Noig2Fy/view?usp=sharing
+
 <h2>How to use it </h2>
+
+
 
 ### Demonstration video
 
